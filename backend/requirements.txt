@@ -1,0 +1,8 @@
+fastapi==0.115.0
+uvicorn==0.30.6
+yfinance>=1.1.0
+numpy==1.26.4
+scipy==1.14.1
+scikit-learn==1.5.2
+umap-learn==0.5.6
+pandas==2.2.3
