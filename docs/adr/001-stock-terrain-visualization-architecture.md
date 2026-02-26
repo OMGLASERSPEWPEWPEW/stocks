@@ -1,6 +1,6 @@
 # ADR-001: Stock Market Terrain Visualization Architecture
 
-**Status:** Proposed
+**Status:** Accepted
 **Date:** 2026-02-06
 **Author:** Deric Ortiz
 

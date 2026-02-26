@@ -1,5 +1,33 @@
+# Python
 __pycache__/
 *.pyc
+*.pyo
+*.pyd
+venv/
+.venv/
+*.egg-info/
+.pytest_cache/
+.mypy_cache/
+
+# Frontend build
 node_modules/
 dist/
+dist-ssr/
+
+# Environment
 .env
+.env.local
+.env.*.local
+
+# Logs
+backend/logs/*.log
+*.log
+
+# macOS
+.DS_Store
+
+# IDE
+.idea/
+.vscode/
+*.suo
+*.sw?
